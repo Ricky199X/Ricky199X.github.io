@@ -1,11 +1,11 @@
 # Site settings
 author: Ricky Rojas
-title: CLI Gem Project - Flatiron School
+title: Yung Boolean's Travels
 header-img: img/home-bg.png
 email: rickyrojas19@gmail.com
 copyright_name: Ricky Rojas
 description: > # this means to ignore newlines until "baseurl:"
-  A journey from A-Z with my first CLI project.
+  Insight into my journey as a wannabe developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ricky199X
